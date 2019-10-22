@@ -9,3 +9,7 @@ The purpose of this script was to generate estimated LRR and BAF in the absence 
 values in the Final Report (and in the absence of original IDAT files and GenomeStudio files).
 
 The estimated LRR and BAF values are intended as input for PennCNV.
+
+NOTE, 
+1/ the header should not be in the input file.
+2/ the input file needs to be pre-sorted on SNP ID (first field).
